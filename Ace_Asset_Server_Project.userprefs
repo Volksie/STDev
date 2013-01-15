@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Quote/BillOfMaterials.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Quote/BillOfMaterials.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/michaelbeebe/Ace_Asset_Server_Project/Assets/Scripts/GUI/ChangeSliderParameterFrames.cs" line="79" />
+      <Breakpoint file="/Users/michaelbeebe/Ace_Asset_Server_Project/Assets/Scripts/GUI/ChangeSliderParameterFrames.cs" line="28" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

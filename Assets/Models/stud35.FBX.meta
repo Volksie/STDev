@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 114fb5b7c29d14ef5a8fa0e778d337af
+ModelImporter:
+  fileIDToRecycleName:
+    4300000: Stud4x4
+    4300002: StProdB
+    4300004: 4x4stud
+    4300006: FastTrack-h
+    4300008: 2x4stud-h
+    4300010: FastTrack-h
+    4300012: MiniTrack-h
+    4300014: ScreenTight-15-h
+    4300016: MiniTrack-h
+    4300018: affordance_trans_veritical
+    4300020: door36_wd_meadow
+    4300022: door36-hdwr-hinge-left
+    4300024: door36-hdwr-hinge-right
+    4300026: door36-MiniTrack-h
+    4300028: door36-FastTrack-h
+    4300030: door36-2x4stud-h
+    4300032: door36-ScreenTight-h
+    4300034: door36-4x4stud
+    4300036: door36-FastTrack-v
+    4300038: door36-ScreenTight-v
+    4300040: door36-MiniTrack-v
+    4300042: door36-4x4stud
+    4300044: door36-ScreenTight-v
+    4300046: door36-FastTrack-v
+    4300048: door36-MiniTrack-v
+    4300050: door36-4x4stud-fixed
+    4300052: door36-FastTrack-fixed
+    4300054: door36-ScreenTight-v-fixed
+    4300056: door36-MiniTrack-fixed
+    4300058: door36-4x4stud-fixed
+    4300060: door36-ScreenTight-v-fixed
+    4300062: door36-FastTrack-fixed
+    4300064: door36-MiniTrack-fixed
+    4300066: door36-FastTrack-v
+    4300068: door36-MiniTrack-v
+    4300070: door36-MiniTrack-v
+    4300072: door36-FastTrack-v
+    4300074: affordance_trans_porch_depth
+    4300076: affordance_trans_porch_width
+    4300078: MiniTrack-v
+    4300080: FastTrack-v
+    4300082: PostCorner_fronta
+    4300084: PostCorner_frontb
+    4300086: PostCorner_Backb
+    4300088: PostCorner_backa
+    4300090: ScreenTight-35-v
+    4300092: ScreenTight-35-v
+    4300094: ScreenTight-35-v
+    4300096: ScreenTight-35-v
+    4300098: ScreenTight-35-v
+    4300100: ScreenTight-35-v
+    4300102: MiniTrack-h
+    4300104: plate-side-a-top
+    4300106: ScreenTight-15-h
+    4300108: MiniTrack-h
+    4300110: plate-side-b-top
+    4300112: FastTrack-h
+    4300114: ScreenTight-15-h
+    4300116: FastTrack-h
+    4300118: MiniTrack-h
+    4300120: plate-side-btm-a
+    4300122: ScreenTight-15-h
+    4300124: MiniTrack-h
+    4300126: plate-side-b-btm
+    4300128: FastTrack-h
+    4300130: ScreenTight-15-h
+    4300132: FastTrack-h
+    4300134: FastTrack-right005
+    4300136: ScreenTight-15-h
+    4300138: plate-front-top
+    4300140: MiniTrack-h
+    4300142: FastTrack-h
+    4300144: FastTrack-v
+    4300146: MiniTrack-v
+    4300148: FastTrack-v
+    4300150: MiniTrack-v
+    4300152: FastTrack-v
+    4300154: MiniTrack-v
+    4300156: FastTrack-v
+    4300158: MiniTrack-v
+    4300160: ScreenTight-15-h
+    4300162: plate-front-btm
+    4300164: MiniTrack-h
+    4300166: FastTrack-h
+    4300168: MiniTrack-v
+    4300170: FastTrack-v
+    4300172: affordance_trans_porch_height
+    4300174: PorchBase
+    4300176: PorchRoof
+    4300178: 2x4stud
+    4300180: affordance_trans_horiz
+    4300182: affordance_connect_right
+    4300184: affordance_connect_left
+    4300186: MiniTrack-v
+    4300188: ScreenTight-15-v
+    4300190: FastTrack-v
+    4300192: FastTrack-v
+    4300194: MiniTrack-v
+    4300196: ScreenTight-35-v
+    4300198: MiniTrack-v
+    4300200: FastTrack-v
+    4300202: FastTrack-v
+    4300204: MiniTrack-v
+    4300206: affordance_trans_horiz
+    4300208: affordance_connect_right
+    4300210: affordance_connect_left
+    7400000: Take 001 //// stud35
+  serializedVersion: 10
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    generateAnimations: 3
+    bakeSimulation: 0
+    splitAnimations: 1
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMesh: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  textMetaNamesToFileIDs:
+    //RootNode:
+      data:
+        first: 1
+        second: a0860100
+      data:
+        first: 4
+        second: 801a0600
+      data:
+        first: 111
+        second: 605fa900
+    4x4stud:
+      data:
+        first: 1
+        second: 78870100
+      data:
+        first: 4
+        second: 581b0600
+      data:
+        first: 23
+        second: 2e192300
+      data:
+        first: 33
+        second: 6e5b3200
+    FastTrack-v:
+      data:
+        first: 1
+        second: dc860100
+      data:
+        first: 4
+        second: bc1a0600
+      data:
+        first: 23
+        second: 9a182300
+      data:
+        first: 33
+        second: da5a3200
+    FastTrack-v 1:
+      data:
+        first: 1
+        second: e4860100
+      data:
+        first: 4
+        second: c41a0600
+      data:
+        first: 23
+        second: a2182300
+      data:
+        first: 33
+        second: e25a3200
+    MiniTrack-v:
+      data:
+        first: 1
+        second: 26870100
+      data:
+        first: 4
+        second: 061b0600
+      data:
+        first: 23
+        second: e4182300
+      data:
+        first: 33
+        second: 245b3200
+    MiniTrack-v 1:
+      data:
+        first: 1
+        second: e2860100
+      data:
+        first: 4
+        second: c21a0600
+      data:
+        first: 23
+        second: a0182300
+      data:
+        first: 33
+        second: e05a3200
+    ScreenTight-35-v:
+      data:
+        first: 1
+        second: 12870100
+      data:
+        first: 4
+        second: f21a0600
+      data:
+        first: 23
+        second: d0182300
+      data:
+        first: 33
+        second: 105b3200
+    affordance_connect_left:
+      data:
+        first: 1
+        second: a2860100
+      data:
+        first: 4
+        second: 821a0600
+      data:
+        first: 23
+        second: 60182300
+      data:
+        first: 33
+        second: a05a3200
+    affordance_connect_right:
+      data:
+        first: 1
+        second: be860100
+      data:
+        first: 4
+        second: 9e1a0600
+      data:
+        first: 23
+        second: 7c182300
+      data:
+        first: 33
+        second: bc5a3200
+    affordance_trans_horiz:
+      data:
+        first: 1
+        second: a6860100
+      data:
+        first: 4
+        second: 861a0600
+      data:
+        first: 23
+        second: 64182300
+      data:
+        first: 33
+        second: a45a3200
